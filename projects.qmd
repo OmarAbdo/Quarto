@@ -17,7 +17,7 @@ format: html
 - **Technologies Used:** Python, Django, PostgreSQL
 - **Highlights:** Provided actionable insights through interactive visualizations and data analysis.
 
-### [Back to CV](./index.html)
+### [Back to CV](./)
 
 ### More Links
 
