@@ -1,27 +1,69 @@
 ---
-title: "Quarto Basics"
-format:
-  html:
-    code-fold: true
-jupyter: python3
+title: Omar Abdou
+format: html
 ---
 
-For a demonstration of a line plot on a polar axis, see @fig-polar.
+## Curriculum Vitae
 
-```{python}
-#| label: fig-polar
-#| fig-cap: "A line plot on a polar axis"
+# ![Omar Abdou](./omar.jpg){style="border-radius: 50%; width: 150px; height: 150px; float: left; margin-right: 20px;"} 
 
-import numpy as np
-import matplotlib.pyplot as plt
+### Omar Abdou
 
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(
-  subplot_kw = {'projection': 'polar'} 
-)
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
-```
+*Software Engineer | Full Stack Developer*
+
+**Email:** omar.abdo@example.com  
+**Phone:** +123 456 7890
+
+---
+
+### Professional Experience
+
+#### Software Engineer at Tech Solutions Inc.
+*Jan 2020 - Present*
+
+- Lead developer in a team of 10, responsible for building and maintaining high-performance web applications.
+- Developed a scalable e-commerce platform that increased sales by 30%.
+- Implemented a microservices architecture, reducing system downtime by 15%.
+
+#### Full Stack Developer at Web Innovators
+*Jun 2017 - Dec 2019*
+
+- Designed and developed front-end interfaces and back-end systems for various client projects.
+- Collaborated with designers to create intuitive UI/UX for web applications.
+- Optimized database queries, improving application response times by 25%.
+
+### Education
+
+#### Bachelor of Science in Computer Science
+*University of Tech, 2013 - 2017*
+
+- Graduated with honors, specializing in software development and data structures.
+
+### Skills
+
+- Programming Languages: JavaScript, Python, Java
+- Frameworks: React, Node.js, Django
+- Databases: MySQL, MongoDB
+- Tools: Git, Docker, Kubernetes
+
+### Certifications
+
+- Certified ScrumMaster (CSM)
+- AWS Certified Solutions Architect
+
+### Projects
+
+#### Project A: E-commerce Platform
+- Developed a comprehensive e-commerce platform with user authentication, product management, and payment gateway integration.
+
+#### Project B: Social Media Analytics Tool
+- Created a tool to analyze and visualize social media data, helping clients understand their audience better.
+
+
+## More links
+
+- [Linkedin](https://www.linkedin.com/in/omar-abdo/)
+- [Github](https://github.com/OmarAbdo)
+- [Medium](https://medium.com/@omareabdo)
+
+Copyright © Omar Abdou 2024
