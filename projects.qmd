@@ -1,0 +1,28 @@
+---
+title: Omar Abdou - Projects
+format: html
+---
+
+## Projects
+
+### Project A: E-commerce Platform
+
+- **Description:** Developed a comprehensive e-commerce platform with user authentication, product management, and payment gateway integration.
+- **Technologies Used:** JavaScript, React, Node.js, MongoDB
+- **Highlights:** Successfully implemented a scalable solution that increased sales by 30%.
+
+### Project B: Social Media Analytics Tool
+
+- **Description:** Created a tool to analyze and visualize social media data, helping clients understand their audience better.
+- **Technologies Used:** Python, Django, PostgreSQL
+- **Highlights:** Provided actionable insights through interactive visualizations and data analysis.
+
+### [Back to CV](./index.qmd)
+
+### More Links
+
+- [Linkedin](https://www.linkedin.com/in/omar-abdo/)
+- [Github](https://github.com/OmarAbdo)
+- [Medium](https://medium.com/@omareabdo)
+
+Copyright © Omar Abdou 2024

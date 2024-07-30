@@ -5,7 +5,7 @@ format: html
 
 ## Curriculum Vitae
 
-# ![Omar Abdou](./omar.jpg){style="border-radius: 50%; width: 150px; height: 150px; float: left; margin-right: 20px;"} 
+### ![Omar Abdou](./omar.jpg){style="border-radius: 50%; width: 150px; height: 150px; float: left; margin-right: 20px;"}
 
 ### Omar Abdou
 
@@ -51,16 +51,9 @@ format: html
 - Certified ScrumMaster (CSM)
 - AWS Certified Solutions Architect
 
-### Projects
+### [Projects](./projects.qmd)
 
-#### Project A: E-commerce Platform
-- Developed a comprehensive e-commerce platform with user authentication, product management, and payment gateway integration.
-
-#### Project B: Social Media Analytics Tool
-- Created a tool to analyze and visualize social media data, helping clients understand their audience better.
-
-
-## More links
+### More Links
 
 - [Linkedin](https://www.linkedin.com/in/omar-abdo/)
 - [Github](https://github.com/OmarAbdo)
